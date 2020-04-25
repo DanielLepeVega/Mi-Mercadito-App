@@ -9,3 +9,5 @@ The point of this is aplication is for the community to grow and have a direct r
 
 This will also work as a log file.
 I will be posting the version of the app here as well as the updated link of the application online, so that you can go check it out, test it and then improve it with another idea.
+
+# YOU CAN HELP, GO AHEAD AND START CODING
